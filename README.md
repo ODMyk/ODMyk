@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ODMyk
 - 👀 I’m interested in Web Development and programming in general.
-- 🌱 I’m currently learning Django(python framework) and soon i'll learn databases.
+- 🌱 I’m currently learning NodeJS develompent.
 - 💞️ I’m not looking to collaborate yet.
 - 📫 How to reach me: write an email to ostapenko.dmytro05@gmail.com
 
